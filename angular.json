@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "CrashAppToGrabApis"
+    }
+  },
+  "defaultProject": "CrashAppToGrabApis",
+  "cli": {
+    "analytics": "5c664753-5f68-47ac-b4bc-152c85ea8f4f"
+  }
 }
